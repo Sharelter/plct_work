@@ -1,2 +1,2 @@
 # plct_work
-repo for work in plct
+> Repo for works I did in PLCT Lab.
