@@ -14,3 +14,4 @@
 ## Month Report
 
 - [Month0](https://github.com/Sharelter/plct_work/tree/main/month0/month0.md)
+- [Month0-zh_cn](https://github.com/Sharelter/plct_work/tree/main/month0/month0_zh_cn.md)
