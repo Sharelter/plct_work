@@ -39,7 +39,7 @@ Chromium tests on Milk-V Pioneer with RevyOS:
 
 对两个 XuanTie [RISC-V Institute 课程](https://www.xrvm.cn/community/risc_v) 视频进行点评（见内部表格）
 
-## 兴趣项目
+## 业余兴趣项目
 
 为同事提供一些远程开发板资源，并构建了一个docker镜像来自动化创建远程访问跳板容器:
 
